@@ -1,1 +1,1 @@
-web: gunicorn message_system:message_system
+web: gunicorn app:app
